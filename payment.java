@@ -4,7 +4,10 @@ class IfElse {
   public static void main(String[] args) {
     int marksObtained, passingMarks;
    
-    passingMarks = 60;
+
+    
+
+    passingMarks = 55;
    
     Scanner input = new Scanner(System.in);
    
